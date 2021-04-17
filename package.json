@@ -1,0 +1,15 @@
+{
+  "name": "project_rest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitalii Hutov",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1",
+    "restify-router": "^0.6.2"
+  }
+}
